@@ -11,7 +11,7 @@
     "quality": "1080p",
     "baseUrl": "https://hanime.tv/api/v8/browse-trending?time=${time}&page=1&order_by=views&ordering=desc",
     "searchBaseUrl": "https://bshar1865-hianime.vercel.app/api/v2/hianime/search?q=%s",
-    "scriptUrl": "",
+    "scriptUrl": "https://github.com/dragonplus8/SparseThemer/edit/main/Note%2021%20Jul%202025%20at%2021_58_02%202.json",
     "type": "anime",
     "asyncJS": true,
     "softsub": true
